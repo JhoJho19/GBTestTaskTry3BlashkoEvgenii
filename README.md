@@ -3,11 +3,11 @@
 
 Тестирование игры в редакторе необходимо начинать со сцены START screen.
 УБЕДИТЕСЬ ЧТО СЦЕНЫ В BUILD SETTINGS выстроены следующим образом: 
-Start screen
-level 1
-level 2
-level 3
-The end screen
+Start screen;
+level 1;
+level 2;
+level 3;
+The end screen.
 Это важно, так как сцены переключаюьтся по индексу.
 
 Немного про архитектуру и структуру проекта:
