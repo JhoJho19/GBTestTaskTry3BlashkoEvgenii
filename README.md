@@ -2,6 +2,12 @@
 к игре Olympus trial
 
 Тестирование игры в редакторе необходимо начинать со сцены START screen.
+УБЕДИТЕСЬ ЧТО СЦЕНЫ В BUILD SETTINGS выстроены следующим образом: 
+Start screen
+level 1
+level 2
+level 3
+The end screen
 
 Немного про архитектуру и структуру проекта:
 
